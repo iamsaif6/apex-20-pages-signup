@@ -4,11 +4,13 @@
 
 <img src="https://github.com/iamsaif6/apex-20-pages-signup/blob/master/Screenshot%202021-06-03%20at%2015-13-28%20Document.png" width="800px" />
 
-> ## For live preview : [Click Here](https://iamsaif6.github.io/apex-20-pages-signup/ "Apex")
+> ## Checkout Homepage : [Click Here](https://iamsaif6.github.io/apex-20-pages-signup/ "Apex")
 
-> ## Here are the links for other 20 pages.
+> ### Here are the links for other 20 page : 
 
 * [company__form.html ](https://iamsaif6.github.io/apex-20-pages-signup/company__form.html "Apex")
+* [damage-form.html ](https://iamsaif6.github.io/apex-20-pages-signup/damage-form.html "Apex")
+* [email__form.html ](https://iamsaif6.github.io/apex-20-pages-signup/email__form.html "Apex")
 
  <br>
 
