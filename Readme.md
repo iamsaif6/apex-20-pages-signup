@@ -26,7 +26,7 @@
 - [thank-you-page.html](https://iamsaif6.github.io/apex-20-pages-signup/thank-you-page.html "Apex")
 - [upload.html](https://iamsaif6.github.io/apex-20-pages-signup/upload.html "Apex")
 - [uploaded.html](https://iamsaif6.github.io/apex-20-pages-signup/uploaded.html "Apex")
-- [uploading.html](https://iamsaif6.github.io/apex-20-pages-signup/uploading.html"Apex")
+- [uploading.html](https://iamsaif6.github.io/apex-20-pages-signup/uploading.html "Apex")
 
  <br>
 
