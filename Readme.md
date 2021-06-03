@@ -6,7 +6,7 @@
 
 > ## Checkout Homepage : [Click Here](https://iamsaif6.github.io/apex-20-pages-signup/ "Apex")
 
-> ### Here are the links for other 20 page :
+> ### Here are the links for other 20 pages :
 
 - [company\_\_form.html ](https://iamsaif6.github.io/apex-20-pages-signup/company__form.html "Apex")
 - [damage-form.html ](https://iamsaif6.github.io/apex-20-pages-signup/damage-form.html "Apex")
