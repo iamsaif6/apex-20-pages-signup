@@ -6,6 +6,10 @@
 
 > ## For live preview : [Click Here](https://iamsaif6.github.io/apex-20-pages-signup/ "Apex")
 
+> ## Here are the link for other 20 pages.
+
+    * [company__form.html ](https://iamsaif6.github.io/apex-20-pages-signup/company__form.html "Apex")
+
  <br>
 
 ### Get started (Make sure you have installed node.js)
