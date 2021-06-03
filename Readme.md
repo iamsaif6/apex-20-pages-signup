@@ -1,14 +1,10 @@
-# Apartmenty Multipage Website
+# Apex Litigation - 20 pages signup form
 
 <br>
 
-<img src="https://github.com/iamsaif6/Apartmenty/blob/master/Screenshot%202021-06-03%20at%2014-38-53%20Document.png" width="800px" />
+<img src="https://github.com/iamsaif6/apex-20-pages-signup/blob/master/Screenshot%202021-06-03%20at%2015-13-28%20Document.png" width="800px" />
 
-> ## For live preview : [Click Here](https://iamsaif6.github.io/Apartmenty/ "Apartmenty")
-
-> ## [Home Page 2](https://iamsaif6.github.io/Apartmenty/index%20-%202.html "Portfolio")
-
-> ## [Home Page 3](https://iamsaif6.github.io/Apartmenty/index%20-%203.html "Portfolio")
+> ## For live preview : [Click Here](https://iamsaif6.github.io/apex-20-pages-signup/ "Apex")
 
  <br>
 
