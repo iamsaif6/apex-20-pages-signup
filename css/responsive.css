@@ -1,0 +1,194 @@
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {  
+
+
+}
+
+
+ /* Medium devices (tablets, less than 992px) */
+ @media (max-width: 991.98px) { 
+
+    .main{
+        background-size: 150%;
+    }
+
+    html{
+        font-size: 58%;
+    }
+
+    .section__form{
+        padding: 10px 20px;
+    }
+
+ }
+
+
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) { 
+
+
+    .main{
+        background-size: 200%;
+    }
+
+    html{
+        font-size: 54%;
+    }
+
+    .profile__details{
+        padding: 25px 20px;
+    }
+
+ }
+
+
+
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    .header__wrapper{
+        padding: 0 16px;
+    }
+
+    .header__heading{
+        font-size: 4.5rem;
+        line-height: 6rem;
+        margin-top: 35px;
+    }
+
+    html{
+        font-size: 45%;
+    }
+
+    .section__form__step{
+        flex: 30%;
+        text-align: right;
+    }
+
+    .main{
+        background-size: 300%;
+    }
+
+    .section__input::placeholder{
+        font-size: 22px;
+    }
+
+    .profile__tab{
+        display: none !important;
+    }
+
+    .profile__mobile{
+        display: block;
+    }
+
+    .profile__picture{
+        display: flex;
+    }
+
+    .profile__img{
+        height: 44px;
+        width: 44px;
+        border-radius: 10px;
+        margin-right: 10px;
+    }
+
+    .profile__wrap{
+        padding: 25px 20px;
+    }
+
+    .profile__details{
+        padding: 0;
+    }
+
+    .header__btnbox{
+        width: 100%;
+    }
+
+    .header__btnbox .col-md-6{
+        padding: 0;
+    }
+
+    .section__progress{
+        max-width: 300px;
+        margin: 10px 0;
+        margin-bottom: 0;
+    }
+
+    .logo__img{
+        width: 100px;
+    }
+
+    .cc-picker-code-list{
+        left: 20px;
+        margin-top: 17px;
+    }
+
+    .section__form__title {
+        margin-bottom: 10px;
+    }
+
+    .section__form__content{
+        padding: 10px 0;
+    }
+    .mobile__radio,
+    .mobile__radio--sm,
+    .mobile__radio--sm label,
+    .mobile__radio label{
+        height: 45px !important;
+    }
+
+
+    .mt__30{
+        margin-top: 15px;
+    }
+
+    .mb__30{
+        margin-bottom: 15px;
+    }
+
+    .mb__10{
+        margin-bottom: 8px;
+    }
+
+    .btn-secondary{
+        margin-top: 25px;
+    }
+
+    .section__form__enter{
+        margin-top: 10px;
+    }
+
+    .section__form__heading{
+        font-size: 2.2rem;
+    }
+
+    .section__form{
+        padding-bottom: 0;
+    }
+
+    .header .description{
+        margin-bottom: 25px;
+    }
+
+    .upload__wrapper{
+        min-height: 240px;
+    }
+    
+ }
